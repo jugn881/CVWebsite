@@ -132,6 +132,16 @@ h2 {
   padding: 0%;
   height: 50%;
 }
+.aboutme-bottomcontainer {
+  position: absolute;
+  background-color: cadetblue;
+  width: 95%;
+  height: 900px;
+  top: 700px;
+  bottom: auto;
+  margin: 50px;
+}
+
 #tt-photo {
   position: absolute;
   width: 500px;
