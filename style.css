@@ -135,11 +135,11 @@ h2 {
 .aboutme-bottomcontainer {
   position: absolute;
   background-color: cadetblue;
-  width: 95%;
-  height: 900px;
-  top: 700px;
+  width: 60%;
+  height: 850px;
+  top: 750px;
   bottom: auto;
-  margin: 50px;
+  margin-left: 455px;
 }
 
 #tt-photo {
@@ -152,7 +152,7 @@ h2 {
 
 #cooking {
   position: absolute;
-  width: 500px;
+  width: 470px;
   height: 500px;
   left: 55%;
   padding: 20px;
