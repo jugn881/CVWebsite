@@ -344,17 +344,61 @@ h2 {
 .giphy-embed {
   position: absolute;
   width: 300px;
-  left: 58%;
-  top: 100px;
+  left: 60%;
+  top: 600px;
 }
 
-.description-skills {
+.technicalSkills-table {
   position: absolute;
-  line-height: 60px;
   top: 100%;
-  left: 27%;
-  right: 20%;
+  left: 26%;
+  right: 30%;
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
   font-size: 20px;
+  line-height: 30px;
+  border-spacing: 30px;
+  border-width: 25px;
+  border-collapse: collapse;
+}
+
+.softSkills-list {
+  position: relative;
+  top: 630px;
+  left: 500px;
+  right: 30%;
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+  border-spacing: 5px;
+  border-width: 25px;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+.workExperience-list {
+  position: relative;
+  top: 660px;
+  left: 500px;
+  right: 30%;
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+  border-spacing: 5px;
+  border-width: 25px;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+td {
+  padding: 10px;
+}
+
+th {
+  text-align: left;
+  padding: 0px;
 }
 
 /* skills.html */
