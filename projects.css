@@ -68,4 +68,22 @@ h2 {
   font-size: 20px;
   line-height: 60px;
 }
+
+.projects-List {
+  position: absolute;
+  top: 102%;
+  left: 26%;
+  right: 30%;
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.drumKitImage {
+  position: absolute;
+  width: 500px;
+  left: 27%;
+  top: 125%;
+}
 /* projects.html */
